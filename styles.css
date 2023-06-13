@@ -2,17 +2,17 @@
 
 :root{
     --text-color: white;
-    --bg-url: url(../assets/bg-mobile.jpg);
+    --bg-url: url(./assets/bg-mobile.jpg);
     --border: rgba(255, 255, 255, 0.5);
     --icon-color: rgba(255, 255, 255, 0.3);
-    --switch-bg-url: url(../assets/moon-stars.svg);
+    --switch-bg-url: url(./assets/moon-stars.svg);
 }
 .light{
     --text-color: black;
-    --bg-url: url(../assets/bg-mobile-light.jpg);
+    --bg-url: url(./assets/bg-mobile-light.jpg);
     --border: rgba(20, 12, 12, 0.5);
     --icon-color: rgba(20, 20, 20, 0.475);
-    --switch-bg-url: url(../assets/sun.svg);
+    --switch-bg-url: url(./assets/sun.svg);
 }
 
 * {
